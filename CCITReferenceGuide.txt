@@ -1,0 +1,3610 @@
+Service Desk Reference Sheet
+Created by: Robert Kane, Spencer Shaw
+Additions by: Tyler Mulea
+For any additions/questions/edits, please Slack or email either of above
+
+*BEFORE YOU DO ANYTHING, REMEMBER TO RUN YOUR
+
+ERRANDS*
+
+*A quick check of these 7 categories can resolve 50% of issues*
+EMAIL /
+USERNAME
+
+●
+
+●
+
+Are they using the correct username?
+○ user@clemson.edu and user@g.clemson make a
+MASSIVE difference
+○ See specific software title for login information
+VERIFY:
+○ WiFi login - Splunk
+○ Anything else - Ask the user to “Read me the login you are
+using, NOT “Are you using _____ to login?”
+
+REALLY?
+/ VERIFY
+
+●
+●
+
+Validate each and every one of these categories for the users.
+Things that seem interchangeable to the user are not always so.
+
+REQUIREMENT
+
+●
+
+Does this request require another department’s attention?
+○ If so, make sure to retrieve the required information
+BEFORE routing the ticket.
+■ See specific issue for details in escalating ticket.
+
+AFFILIATION
+(*Primary*)
+
+●
+●
+●
+●
+
+Student
+Employee
+Affiliate
+VERIFY: Check HD Tools
+
+NETWORK
+/ WIFI
+
+●
+
+On campus?
+○ Eduroam
+Off campus?
+○ VPN?
+VERIFY: Screen share
+
+●
+●
+DIFFERENT
+BROWSER
+/ INCOGNITO
+STATUS
+
+●
+●
+
+For login/gateway errors:
+○ To tell if user needs to clear cache/cookies, have them try
+on an incognito window
+VERIFY: Screen share
+
+●
+●
+●
+●
+
+Active
+Inactive
+Retired
+VERIFY: Check HD Tools
+
+Fast Facts
+●
+
+●
+
+●
+
+Recommended laptops:
+○
+
+By Major
+
+○
+
+Details/Purchase
+
+○
+
+Please don’t recommend:
+■
+
+Engineering majors to buy Macs
+
+■
+
+ANYONE to buy a Chromebook
+
+Hardware Repair
+○
+
+Check status of repair: Within ticket, click Tasks > Description
+
+○
+
+Loaner laptops are ONLY provided to users who:
+■
+
+Purchased their laptop through Clemson
+
+■
+
+Device is currently being repaired by Clemson/SafeWare
+
+Sending users Knowledge Base links:
+○
+
+HDKBs default to Article 2297. This means when you send a user a link to a
+HDKB, you need to REPLACE THE ARTICLE ID
+
+●
+●
+
+Rentals
+○
+
+CCIT does not rent out anything except loaner laptops under approved
+circumstances
+
+○
+
+Cooper Library main (4th) floor does rent numerous products (including chargers,
+cables, calculators, projectors, and tablets)
+■
+
+Available products
+
+Table of Contents
+Account Unlock
+Adobe
+Affiliations
+All In Rewards
+Alumni
+Bridge (Tiger) Training
+Bomgar
+Boot Camp / Dual Boot
+Canvas
+Cisco Anyconnect Mobility Client (VPN)
+Cisco Jabber
+Citrix
+Cherwell
+Classroom Issues
+Clear Cache/Cookies
+Clemson Computer Store
+Company Portal
+Credential Manager
+Data Recovery
+Departmental / Organizational / Club Accounts
+Directory
+Drivers
+Duo
+Eduroam
+Email
+Ethernet
+EVERFI (AlcoholEdu)
+
+Forgetting a WiFi Network
+Forgot Username
+G Suite for Education (Google)
+Grammarly
+GS2
+H Drive
+Hardware Repair
+Hotspots
+iRoar
+iStart Portal (SEVIS)
+JMP
+Keychain
+Keyboard Shortcuts
+Kronos
+Laptop Pickup Procedure
+Loaner Laptop Policy
+LogiSim
+Matlab
+Microsoft Office 365
+Minitab
+New Students (Incoming Freshmen, Transfers)
+Opening Procedures
+Password Reset
+PaperCut
+PeopleSoft
+PeopleSoft Finance
+Phones
+Plotting
+
+Printing (General)
+Proctorio
+Respondus LockDown Browser
+Resmedianet
+SAS
+School of Computing
+Slack
+Software Repository / (Mapping a) Network Drive
+SolidWorks
+Splunk
+SPSS
+Switchboard
+Tableau
+TigerOne (Mobile ID)
+TigerQuest
+Touchnet for Laptop Pickup
+Trend Micro (Apex One)
+Uninstalling a Program
+Windows
+Zoom
+
+Account Unlock
+●
+
+●
+
+Intruder lockout
+○
+
+Caused by too many password attempts
+
+○
+
+No verification necessary, “release” on HD Tools
+
+Active Directory lockout
+○
+
+Usually caused by WiFi continually attempting to connect
+■
+
+Ask the user if they have any devices using a previous password that has
+been changed
+
+○
+●
+
+No verification necessary, “release” on HD Tools
+
+Duo lockout
+○
+
+Lockouts automatically resolved in 15 minutes
+
+○
+
+If the user needs to be unlocked, reach out to Tier 1 chat
+■
+
+No need to confirm identity
+
+Adobe
+●
+
+Login: user@clemson.edu (NOT user@g.clemson.edu)
+○
+
+●
+
+Password: Clemson password (NOT Gmail, unless it is the same)
+
+Checking Student Access
+○
+
+Check that in HD Tools primary affiliation is “STUDENT”
+
+○
+
+Check that in HD Tools > Student Records > Active Status is “ACTV”
+■
+
+A “CONF” status means they are confirmed as a student but are not
+actively taking classes yet, so they will not yet be able to access Adobe.
+
+■
+
+This status will change to “ACTV” about 3 days before the start of
+classes.
+
+●
+
+Download at: https://www.adobe.com
+○
+
+Once they are logged in, they will need to download the Adobe Creative Cloud
+app which will allow them to install any other products. *DOES NOT REQUIRE
+VPN*
+
+●
+
+Available to students and staff:
+○
+
+Photoshop, Lightroom , Illustrator, InDesign, Muse, Edge Animate,
+Dreamweaver, Edge Web Fonts, Edge Reflow, Edge Code, Edge Inspect, Flash
+
+Pro, Premier Pro, After Effects, Audition, Acrobat, Sign(May need to request in
+Tier 1 chat)
+●
+
+Scan
+○
+
+NOT licensed through Clemson
+
+○
+
+However, students can sign in free with any valid Google email address (this
+includes your @g.clemson.edu)
+
+○
+
+iPhone can export to apps including Canvas
+■
+
+●
+
+Scan all pages > Save PDF > Share > Share a Copy > Desired App
+
+Students have access to Adobe 3 days prior to class start and 3 days following
+graduation
+
+Affiliations
+●
+
+HDTools > Identity > Primary Affiliation
+
+●
+
+Types:
+○
+
+Alumni
+■
+
+○
+
+○
+
+See below section
+
+Student
+■
+
+Use Gmail accounts
+
+■
+
+Check if alumni!
+
+■
+
+Clemson account disabled after 1 year following graduation
+
+Employee
+■
+
+Use Outlook accounts
+
+■
+
+Clemson login/Outlook/Exchange email disabled immediately after
+termination/retirement unless Emeritus or extension request
+
+○
+
+MEDS Users
+■
+
+Occasionally, you will pull up an account and see (misc.) next to their
+username. Go to the Password tab and check “CUID Password Policy.” If
+you see “cn = MEDS users” as shown below, you will need to direct the
+user to the
+●
+
+MEDS Help Desk: 1-866-845-1548
+
+○
+All In Rewards
+●
+
+Requests and inquiries regarding the All In Rewards application should be directed to
+Ashby Burton at ashbyb@clemson.edu.
+
+Alumni
+●
+●
+
+Compile all the alumni related information here, I think that’s more straightforward
+Alumni cannot access their transcripts through iRoar after 1 year, they need to contact
+the Registrar’s office
+
+Bridge (Tiger) Training
+●
+
+Bridge Training Site
+
+●
+
+Users are frequently locked out due to not completing training
+○
+
+Send a message in Slack and a Student Lead/full-time employee will unlock the
+user temporarily
+■
+
+Inform user they have 3 days to complete training or they will be locked
+out again
+
+■
+●
+
+No identity verification required for unlock
+
+To check the module that needs to be completed: Go to HDTools > Search user >
+Vault History > In the top right, click “Show complete history” > Ctrl+f > Search
+“logindisabled” > Find when VaultloginDisabled has Value “true” > Blue bar will show
+module which must be completed
+
+●
+●
+
+If a user is incorrectly locked out after having completed all training modules, let
+Michael Belanger (mbelang) know. This usually happens when a module that was not
+assigned to the user is shown as incomplete.
+
+Bomgar
+●
+
+Admin Interface
+
+●
+
+User Interface: support.clemson.edu
+
+●
+
+Login: username
+○
+
+●
+
+Password: Clemson password (NOT Gmail, unless same)
+
+MacOS
+○
+
+Screen is black upon connection except for Bomgar chat
+
+○
+
+Direct user to Apple Logo in top left > System Preferences > Security & Privacy >
+Click the lock (bottom left) > Enter computer password > toggle ON the box
+beside the Bomgar icon for both Screen Recording AND Accessibility > click
+the lock (bottom left).
+
+●
+
+If a download.clemson.edu software says “Direct access to the media for this software
+on the Software Repository is limited to IT support personnel.” under Install Media, you
+will need to install the software over Bomgar for the user.
+○
+
+Map the network drive using YOUR Clemson credentials and copy the required
+software folder to the user’s desktop.
+
+○
+●
+
+Don’t forget to disconnect your network drive after copying is finished!
+
+Call Center TVs
+○
+
+The four TVs mounted on the wall in the Call Center can be accessed on Bomgar
+> Jump Items > Help Desk
+■
+
+Bomgar is set to launch on startup, but you’ll still need to click the monitor
+icon to access the screen
+
+○
+
+■
+
+NOCVID-SC1: Left two TVs
+
+■
+
+NOCVID-SC2: Right two TVs
+
+Frequently displayed
+
+■
+
+Clemson Live Cams
+
+■
+
+Eduroam Connections Dashboard
+●
+
+■
+
+Login: Username (no @clemson.edu); and Clemson password
+
+Student Call Data reporting panel
+●
+
+“Your connection is not private”: Click Advanced > Proceed to
+scstats.clemson.edu (unsafe)
+
+●
+■
+○
+
+Login: Username (no @clemson.edu); and Clemson password
+
+Citrix Director
+
+The physical Lenovo minis are located behind the TVs. If one of the machines
+ever becomes stuck and needs to be manually rebooted, you can carefully slide
+the outer 2 TVs away from the others to access the physical PC.
+
+●
+
+Classroom Tech Podium PCs
+○
+
+The majority of the supported classrooms are available on Bomgar
+
+○
+
+These can be accessed similarly to the Call Center TVs: Bomgar > Jump Items >
+Classrooms
+
+○
+
+You should obviously be more careful accessing these machines when
+troubleshooting an issue. Many professors would prefer you don’t randomly take
+control of their machines while they are teaching :) This especially applies when
+you are in their classroom…
+
+Boot Camp / Dual Boot
+●
+
+Laptop Support staff may be able to help users at the Help Desk with this, but this is one
+of the processes the Freeman Help Desk specializes in.
+
+●
+
+Dual Booting is NO longer an option with M1 Macs.
+
+Canvas
+●
+
+STOP: Which applies?
+○
+
+○
+
+User with Clemson email (Active Employee or Student)
+■
+
+Click orange button on clemson.edu/canvas
+
+■
+
+Login: username
+
+■
+
+Password: iRoar password
+
+User without Clemson email (Certification Class, Continuing Education,
+CEPSCI, etc)
+■
+
+MUST click purple non-Clemson user button on clemson.edu/canvas
+
+■
+
+Login: email the user registered for the class with
+
+■
+
+User may have not yet setup a password
+
+■
+
+Password: Have the user click “Forgot Password.” Password reset link
+will be sent to the registered email. Usually takes less than 5 mins.
+
+■
+
+Mobile App Login: Since these users do not have SAML logins, they will
+need to login with a QR code
+
+●
+
+Escalating a ticket to Canvas Support:
+○
+
+Calls:
+■
+
+Create ticket PRIOR to transferring the call. This will make Canvas
+Support’s job a lot easier
+
+■
+
+You’ll need:
+●
+
+Username
+
+●
+
+Student/Employee
+
+●
+
+FULL course title as it appears
+○
+
+○
+
+Ex. S2101-ECE-2020-001-12973
+
+●
+
+Issue description
+
+●
+
+Ask in Tier 1 if there is a Canvas Rep available and transfer
+
+●
+
+“Canvas Issue” One Step
+
+Tickets:
+■
+
+If any of these above details are missing, please send an email to the
+user and don’t set to pending
+●
+
+●
+
+“Canvas Issue” One Step
+
+Instructor Guide
+○
+
+Merging/Crosslisting a course
+
+○
+
+“User Storage Quota Exceeded Error”
+■
+
+This occurs when a user has too many files stored in Canvas. Have the
+user go to Canvas > Account in top left > Files and delete files. Usually,
+the majority of the storage is located in My Files > Submissions
+●
+
+Available storage can be seen in the bar below the files
+
+Cisco Anyconnect Mobility Client (VPN)
+●
+
+Download: Scroll down to “VPN” gray heading on download.clemson.edu
+
+●
+
+Required for activating software licenses, accessing network drives
+
+●
+
+Server: cuvpn.clemson.edu
+
+●
+
+Login
+○
+
+User: username (NO @clemson.edu)
+
+○
+
+Password: Clemson password
+
+○
+
+Second Password/Duo Password:
+■
+
+push for push notifications
+
+■
+
+sms sends a text to phone and user will type in the passcode in the same
+blank after receiving
+
+●
+
+■
+
+6-digit hardware token passcodes
+
+■
+
+App passcodes/phone calls DO NOT WORK
+
+“The VPN client was unable to successfully verify the IP forwarding table
+
+modifications. A VPN connection will not be established.”
+○ This error is usually caused by being connected to both wireless and wired
+networks. To solve the issue, have the user either disconnect the ethernet
+cable from their device or disconnect from the wireless network.
+Cisco Jabber
+●
+●
+●
+●
+
+Jabber is a soft-phone software that can be used to take calls from your PC when you
+are away from your physical phone
+Accounts for Jabber must be created prior to login by Network Unified
+Communications team in Cherwell
+Download
+Instructions:
+○ Login: username@clemson.edu
+○ Password: Clemson/iRoar password
+○ When prompted to add your location, go ahead and fill it out
+○ If you’re signing into Finesse, you’ll need to be connected to the VPN
+○ Make sure you have Jabber open prior to Finesse login
+○ Upon Finesse sign-in, you should be greeted with this prompt. If you are not,
+make sure Jabber Desktop is open or try clearing cache/cookies on browser:
+
+○
+
+Select “Jabber Desktop” and click “Continue”
+
+Citrix
+●
+
+Virtual Machine which houses hundreds of Clemson software
+
+●
+
+Login
+○
+
+User: username (NO @clemson.edu)
+
+○
+
+Password: Clemson password
+
+○
+
+Second Password/Duo Password:
+■
+
+push for push notifications
+
+■
+
+sms sends a text to phone and user will type in the passcode in the same
+blank after receiving
+
+●
+
+■
+
+6-digit hardware token passcodes
+
+■
+
+App passcodes/phone calls DO NOT WORK
+
+Download available on download.clemson.edu or the web version can be accessed at
+cuapps.clemson.edu
+○
+
+Server: cuapps.clemson.edu
+
+●
+
+Especially useful for software that cannot natively run on Macs
+
+●
+
+If a user is experiencing issues with connecting to an app on Citrix that they were kicked
+
+Cherwell
+●
+
+Green Crown - VIP User
+
+●
+
+Transferring a ticket that has already been assigned to you (“Field Incident.Owned By
+must be filled in before the record can be saved”)
+
+○
+
+Set ticket to Pending for “Ticket Transfer” and assign to new team
+
+Classroom Issues
+●
+
+Is the classroom listed here? (Powers is COB)
+○
+
+○
+
+●
+
+Create a ticket with for Tier 1 Classroom Tech with:
+■
+
+Username
+
+■
+
+Room number
+
+■
+
+Issue description
+
+If urgent, send message in #classroom–tech-faculty-support with:
+■
+
+Ticket number
+
+■
+
+Location
+
+■
+
+Whether or not the tech can interrupt the class
+
+If this is not a supported classroom, grab the same details from the user and send to
+their local support
+
+Clear Cache/Cookies
+●
+
+Chrome
+
+●
+
+Safari
+
+●
+
+FireFox
+
+Clemson Computer Store
+●
+
+Handles purchasing of laptops and computer accessories for STUDENTS (not
+employees) as well as SafeWare purchasing. In Hendrix Student Center.
+
+●
+
+●
+
+●
+
+Contact
+○
+
+(864) 656-0404 for Dell/Lenovo purchases/questions
+
+○
+
+(864) 656-1563 for Apple purchases/questions
+
+Direct links
+○
+
+Lenovo Purchase
+
+○
+
+Dell Purchase
+
+FAQ
+
+Company Portal
+●
+
+No. download.clemson.edu.
+
+●
+
+But seriously, the individual downloads on the site are much more reliable and easier to
+work with.
+
+Credential Manager
+●
+
+This is basically the KeyChain of Windows; Stores saved passwords
+
+●
+
+Control Panel > User Accounts > Credential Manager
+
+●
+
+Useful in situations where a confirmed correct password is not signing into an app
+
+●
+
+Windows Credentials > Find desired application > Remove
+
+Data Recovery
+
+●
+
+Departmental / Organizational / Club Accounts
+●
+
+Creation
+
+○
+
+User must first have some form of proof of title within the organization. If their
+name is not listed in a form of authoritative role (anything besides a generic
+member) in TigerQuest, please have them submit this with the email sent to
+ithelp@clemson.edu
+
+○
+
+●
+
+Include:
+■
+
+3 possible usernames
+
+■
+
+Position within organization
+
+■
+
+Preferred Account type: Outlook/Email
+
+■
+
+Classification: Request New Email Account
+
+■
+
+Team: Computer Resources
+
+Resetting Password
+○
+
+Check HDTools > Owning Identity > Go listed users account and confirm identity
+from there
+■
+
+If this is not available, ask a full-time employee to verify their position
+within the organization and add them as the account owner
+
+○
+
+The SSN in the password reset is that of the owning identity user
+
+Directory
+●
+
+Preferred name: my.clemson.edu > Login > My Profile > Name > Manage Preferred
+Names
+
+●
+
+To update name/job title in directory, create a ticket with the classification “Add/Update
+Directory Name” and send to Identity Management team
+
+●
+
+Legal name changes
+
+Drivers
+●
+
+Only install/update drivers when necessary
+
+●
+
+If you’re not comfortable handling this, please defer to Laptop Support
+
+●
+
+Some common issues caused by missing/outdated drivers are:
+○
+
+Frequent disconnections to devices
+
+○
+
+No internet options available WiFi or ethernet
+
+○
+
+PC not recognizing device
+
+○
+
+Incompatible programs
+
+○
+
+Any graphics issues that cannot be fixed
+
+○
+
+Frequent fan kick/High CPU temps
+
+●
+
+If a BIOS update is available, run SEPARATELY than the other updates!
+
+●
+
+STOP: Ask the user if their data is saved/backed up. You never know when a BIOS
+update is going to fail. The user must consent.
+
+●
+
+Downloads
+○
+
+Lenovo
+
+○
+
+Dell
+
+○
+
+HP
+
+○
+
+Microsoft Surface
+
+○
+
+Acer
+
+○
+
+Asus
+
+Duo
+●
+
+Duo is MANDATORY for all users
+
+●
+
+2fa.clemson.edu
+
+●
+
+Login (Top right corner)
+
+●
+
+○
+
+Username: user (NO @clemson.edu or @g.clemson.edu)
+
+○
+
+Password: Clemson password
+
+First time/Unenrolled user: ("Access is not allowed because you are not enrolled in
+Duo")
+○
+
+●
+
+Follow along
+
+Re-Activating device (“Reconnect” displayed on Duo app, not receiving pushes since
+obtaining new device)
+○
+
+STOP: Does the user have access to their previous Duo device?
+■
+
+2fa.clemson.edu > Login > Manage Devices > Authenticate with previous
+device > Add a new device
+
+○
+
+STOP: Does their new phone have the same number as their previously
+registered phone?
+■
+
+Follow along
+
+○
+
+These are the only two situations where a user requires a bypass code:
+
+○
+
+The maximum bypass code duration is 3 days
+■
+
+1. User has a new device with a different phone number
+●
+
+Have the user call in and verify their identity
+○
+
+ABROAD/INTERNATIONAL ONLY; Email this:
+■
+
+Clemson Username:
+
+■
+
+XID Number:
+
+■
+
+Full Name:
+
+■
+
+Date of Birth:
+
+■
+
+Home or Local Address on File:
+
+■
+
+Home or Cell Phone Number on File:
+
+■
+
+Major or Area of Study:
+
+Also, if you are/were a Clemson employee, provide this
+information as well. If not, you can skip this section:
+
+●
+
+●
+
+Department Name:
+
+●
+
+Direct Supervisor's Full Name:
+
+●
+
+Job Title:
+
+Send to #tier1-chat: Can I have a ?-day, ?-time use Duo bypass
+code for USERNAME? (verified)
+■
+
+ABROAD/INTERNATIONAL: Send user:
+
+○ Go to 2fa.clemson.edu on a computer.
+○ Click "Login in the top right and login with your Clemson
+credentials.
+○ Click "Manage Devices" in the top banner.
+○ As your authentication method, choose "Passcode"
+○ Type in _________
+○ Click "Log In"
+○ Under your previous device, click "+ Add another
+device"
+○ Follow the instructions for registering your new device
+■
+
+2. User left device at home/does not have a device temporarily
+●
+
+Have the user call in and verify their identity
+
+●
+
+Send to #tier1-chat: Can I have a ?-day, ?-time use Duo bypass
+code for USERNAME? (verified)
+
+●
+
+User can type in this passcode for any Duo authentications until
+the code expires
+
+●
+
+Multiple devices on a Duo account
+○
+
+Occasionally, you will encounter a user with a Duo account with multiple
+people/devices. This is often the case for a tech account for a certain building,
+such as HOFFMANBLDGTECH, which has 9 total users on the account.
+
+○
+
+For web applications, this is easy. Have the user verify their name and desired
+device are displayed in the drop-down as shown below:
+
+○
+
+For systems like Cisco or the VPN, the user will have to login to their Duo portal
+(2fa.clemson.edu) and check which corresponding device they are using
+
+●
+
+Authentication Options
+○
+
+Setting a Preferred Authentication Method
+■
+
+2fa.clemson.edu > Manage Devices > Authenticate > Select Default
+device and authentication method > Save
+
+○
+
+SMS
+■
+
+Click “Enter a Passcode”
+
+■
+
+This opens a blue bar at the bottom, click “Text me new codes”
+
+■
+
+Enter passcodes received as text message
+
+●
+○
+
+Token / Fob
+
+■
+■
+
+Press to generate 6 digit code, enter just as you would a passcode from
+the app
+
+■
+
+If pressed too many times without using the code, the token may become
+out of sync. If this appears to be the case, have a Duo admin resync the
+token for you
+
+■
+
+Requires no cell service/WiFi. Uses an encryption algorithm connected to
+the user’s Duo account
+
+■
+
+Users can purchase tokens through the CCIT Marketplace
+(​​https://secure.touchnet.net/C20569_ustores/web/index.jsp).
+●
+
+MBELANG will receive a notification, attach a token to their
+account, and set aside for pickup once checkout is complete.
+
+●
+
+These can be shipped within the US upon request (not
+internationally). Make sure to get a shipping address if this is the
+case.
+
+○
+
+APP PASSCODES AND PHONE CALLS NO LONGER AVAILABLE
+
+Eduroam
+●
+
+STOP: Eduroam is a network meant for SCHOOL devices. If the user is attempting to
+login on any device that is not a PC, iPhone, or iPad, they need to use Resmedianet
+
+●
+
+Login: user@clemson.edu (NOT user@g.clemson.edu)
+○
+
+●
+
+●
+
+Password: Clemson password (NOT Gmail, unless same)
+
+User is unable to connect for the first time:
+○
+
+Ask them to READ what username they are logging in with
+
+○
+
+Run installer
+
+User was disconnected
+○
+
+○
+
+Android
+■
+
+No installer required
+
+■
+
+Follow along
+
+ChromeOS
+■
+
+CHROMEOS DOES NOT LIKE EDUROAM, HENCE WHY WE DO NOT
+RECOMMEND THEM.
+
+○
+
+○
+
+○
+
+■
+
+Run installer (Recently available)
+
+■
+
+Use these settings
+
+iOS / iPhone
+■
+
+No installer required
+
+■
+
+Follow along
+
+Linux
+■
+
+No installer required
+
+■
+
+Follow along
+
+MacOS
+■
+
+1. Forget ClemsonGuest
+
+■
+
+2. Forget Eduroam
+
+■
+
+3. Open “Profiles”
+●
+
+Delete Eduroam profile
+
+■
+
+4. Open “Keychain”
+●
+
+Delete ALL Eduroam user/password
+
+■
+
+5. Reboot
+
+■
+
+6. Run installer (Preferably on Ethernet if possible, but can use hotspot if
+not available, very quick download)
+
+■
+
+7. Click “Connect” on “SSID Eduroam” (Bottom right of WiFi options)
+●
+
+○
+
+This should connect automatically, no password prompt
+
+Windows
+■
+
+1. Forget ClemsonGuest
+
+■
+
+2. Forget Eduroam
+
+■
+
+3. Open Windows Credential Manager
+
+■
+
+4. > Windows Credentials
+
+■
+
+5. Delete ALL Eduroam entries
+
+■
+
+6. Reboot
+
+■
+
+7. Download & run installer
+
+■
+
+8. After running installer, clicking on Eduroam network should immediately
+connect to Eduroam
+
+●
+
+Installer: https://www.clemson.edu/wireless
+○
+
+STOP: If MacOS, did you click “Install” (Top right) on System Preferences >
+Profiles?
+
+Email
+●
+
+The Clemson email system is confusing, but it is one of the most important concepts to
+understand. Take time to understand the distinctions between different email accounts.
+
+●
+
+Employees
+○
+
+By default, employees are issued an EXCHANGE email account username@clemson.edu.
+
+○
+
+Often use Outlook to login to this account. You may hear employees refer to it at
+their “Outlook Account.”
+
+○
+
+Their Exchange password is tied to the CLEMSON ACCOUNT. This means that
+resetting this password is done through the normal password reset in HD Tools.
+
+●
+
+Students
+○
+
+By default, students are issued a GOOGLE email account username@g.clemson.edu.
+
+○
+
+When students refer to their “Clemson Email,” this is what they’re talking about.
+You may hear us call this account their “G Suite” or “Gmail” account.
+
+○
+
+The password to this account is NOT THE SAME AS THE CLEMSON
+ACCOUNT. Resetting their password in HD Tools will not reset their password to
+this email.
+
+○
+
+To reset the password to the email, go to clemson.edu/emailforwarding > Reset
+my G Suite for Education password.
+
+○
+
+"Google couldn't verify this account belongs to you"
+■ If a user runs into this message when logging in after a password
+reset, have one of the full-time staff add a recovery phone
+number/email to their Google account.
+
+●
+
+Alumni
+○
+
+Clemson Alumni will retain access to their Clemson email account username@g.clemson.edu - indefinitely.
+
+○
+
+Alumni cannot reset the password to this account. You will have to verify ID and
+ask for a G Suite password reset in #tier1-chat in slack.
+
+Ethernet
+●
+
+Ethernet connections must be registered
+
+●
+
+Not working after registration? Check to see if it is the cord/port that is faulty:
+○
+
+If possible, have the user connect the cord to another device
+■
+
+Other device works
+●
+
+Try a network reset and updating the ethernet driver for the device
+and restarting
+
+■
+
+Other device doesn’t work
+●
+
+Try a different wall port and see if the device is not working:
+○
+
+Devices working now:
+■
+
+Create a ticket for Network Infrastructure Services
+with:
+
+○
+
+●
+
+Location
+
+●
+
+Port number (listed on outlet)
+
+Still not working:
+■
+
+Recommend that user tries a new ethernet cable
+
+EVERFI (AlcoholEdu)
+●
+
+Click here > Click Clemson University
+
+●
+
+Login: username
+
+●
+
+Password: iRoar password
+
+●
+
+Not working?
+○
+
+Clear cache and cookies
+
+○
+
+Per @mbelang: “Thank you for contacting us with your questions. If you are in
+need of technical support for AlcoholEdu, Sexual Assault Prevention or EVERFI,
+please contact EVERFI’s 24/7 tech support using “Help” within the course or by
+visiting support.everfi.com. For all other questions, please contact Kelley
+Metcalfe via email at krgoins@clemson.edu.”
+
+Forgetting a WiFi Network
+●
+
+ChromeOS
+
+●
+
+Ubuntu Linux
+
+●
+
+MacOS/iOS
+
+●
+
+Windows
+
+Forgot Username
+●
+
+Usernames are public information
+
+●
+
+If you are able to find a user in HDTools, you can provide their username without
+verifying identity
+
+●
+
+Alternatively, if the user is on campus/vpn, they can go to whoami.clemson.edu
+
+G Suite for Education (Google)
+●
+
+Docs
+○
+
+●
+
+Drive
+○
+
+●
+
+Users will lose access immediately after graduation
+
+Forms
+○
+
+●
+
+Documentation
+
+Documentation
+
+Photos
+○
+
+Users have 15GB of storage in their Clemson Google account.
+
+○
+
+Storage can only expanded if the user pays for it themselves
+
+○
+●
+
+Maps
+○
+
+●
+
+Documentation
+NOT supported by Clemson Google account
+
+Sheets
+○
+
+●
+
+Documentation
+
+Slides
+○
+
+●
+
+Documentation
+
+Takeout
+○
+
+File transfer solution from Google Drive to local storage.
+■
+
+○
+●
+
+NOT supported by Clemson Google account
+
+Any Chrome Extensions or Chrome Web Store
+○
+
+●
+
+Documentation
+
+Youtube
+○
+
+●
+
+Please recommend to those who do not wish to lose their storage.
+
+NOT supported by Clemson Google account
+
+ALUMNI: Drive storage was disabled on October 1, 2021.
+○
+
+More info
+
+○
+
+“I graduated from Clemson last year but am currently an employee at Clemson. Will my drive be
+disabled or will I still have access to it?”
+
+○
+
+Any active students or employees will retain access to Google Drive.
+
+○
+○
+
+“Does this affect all google docs and sheets? Or just files saved in the drive?”
+
+○
+
+Yes. Docs and sheets are stored in and tied to Google Drive
+
+○
+○
+
+“Will this change affect Google Photos?”
+
+○
+
+Not at this time. Google Photos are stored separately from Drive, but they will still use
+Clemson's pooled storage. This policy may change in the future as we continue to evaluate
+storage limitations.
+
+○
+○
+
+“Can you convert or migrate my account to not be part of Clemson's domain?”
+
+○
+
+No. Google does not provide that functionality.
+
+○
+○
+
+“I tried to share the files with my personal account and change the owner, but Google says that is
+not allowed. Can you enable it?”
+
+○
+
+No. Google gives us the ability to control external sharing, but there are no settings to allow
+ownership transfer outside the organization.
+
+Grammarly
+●
+
+Grammarly web client is the only version that is licensed under Clemson accounts.
+
+●
+
+You cannot use the desktop client nor the extension under a Clemson account.
+
+●
+
+grammarly.com > Login with username@clemson.edu and iRoar password.
+
+GS2
+●
+
+Graduate Student plan of study.
+
+●
+
+Per their website: “Your graduate program director should be your first contact for GS2
+questions. If you experience any problems completing or routing your GS2, either for
+committee selection or plan of study, or have questions about how to make changes,
+please email GS2HELP@clemson.edu. Most Graduate School staffers do not have
+access to students’ Plans of Study.”
+○
+
+●
+
+People will still reach out to CCIT even though we can’t help.
+
+Tickets should be directed to the iRoar Registration team (please make the tickets for
+those that call or chat).
+
+H Drive
+●
+
+A shared drive by employees working in the same department.
+
+●
+
+Must be connected to VPN or eduroam.
+
+●
+
+As far as setting up the connection, follow the directions in Software Repository /
+Network Drive
+
+●
+
+○
+
+Mac Path: smb://group.clemson.edu/group
+
+○
+
+Windows Path: \\group.clemson.edu\group
+
+https://ccit.clemson.edu/support/kb/?id=526
+
+Hardware Repair
+●
+
+SafeWare
+
+●
+
+AppleCare+
+
+Hotspots
+●
+
+Original CCIT-provided hotspots were deactivated 03/21/22.
+
+●
+
+All deactivated hotspots with no intent on renewal should be returned to CCIT or mailed
+to the Clemson Computer Store. If this user contacts the Computer Store directly, they
+will send them a shipping label so they do not have to get their own.
+
+●
+
+If a user would like to purchase one, their department head will need to send an email to
+ithelp@clemson.edu and state their intent to purchase a hotspot for the user
+
+iRoar
+●
+
+Authorized Users
+○
+
+These are accounts which parents/guardians use to pay tuition; they are
+essentially a limited version of the iRoar Portal
+
+○
+
+Adding an authorized user
+
+○
+
+Logging in: Similar to a Canvas non-Clemson user account, these accounts have
+a separate login. On iroar.clemson.edu, click the bottom link labeled “Authorized
+Users / Parents”
+■
+
+Log in using personal email and again, we do not have access to these
+accounts so passwords are reset via the “Forgot Password” link.
+
+●
+
+Accessing 1098-T
+
+●
+
+View Financial Aid/Scholarship Award
+
+●
+
+If you receive a call from an alumni who needs access to tax/billing information, have
+them contact Student Billing: 864-656-5592
+
+iStart Portal (SEVIS)
+●
+●
+
+This is the international student check-in portal, where e-forms are filled out
+ATTENTION NEW STUDENTS: Please note that all new students must first
+complete the onboarding process linked below to activate your Clemson
+username and set up your Clemson email. There may be a delay of roughly five
+days between the time of completing these steps and gaining access to the iStart
+Portal. Contact is@clemson.edu if you do not gain access within this time period or if
+you experience any additional issues.
+
+● Please note that if you are a new student requesting an I-20, it will be
+emailed to your Clemson email address. You must continue to monitor your
+Clemson email and ensure you set up email forwarding if you choose to use the
+G Suite for Education email. See Email for password reset instructions.
+JMP
+●
+
+Installation instructions
+
+●
+
+Windows license issues
+
+●
+
+Mac license issues
+
+Keychain
+●
+
+Saves passwords for sites, which can commonly interfere with installations/logins
+
+●
+
+Search for Keychain in the Spotlight Search and delete any credentials if the user is
+experiencing interference with an outdated saved password
+
+●
+
+Mac Office constantly asking for Keychain password
+
+●
+
+If you can’t find something in Keychain that should be there, try scrolling through the list
+instead of using the search
+
+Keyboard Shortcuts
+●
+
+●
+
+Windows:
+○
+
+Ctrl + A: Select All
+
+○
+
+Ctrl + C: Copy
+
+○
+
+Ctrl + V: Paste
+
+○
+
+Ctrl + X: Cut
+
+○
+
+Ctrl + S: Save
+
+○
+
+Ctrl + P: Print
+
+○
+
+Ctrl + Z: Undo
+
+○
+
+WIN + R: Run Program (.exe file)
+
+○
+
+WIN + L: Lock Computer
+
+○
+
+WIN + S: Search Bar
+
+○
+
+WIN + A: All Notifications
+
+○
+
+WIN + D: Display Desktop
+
+○
+
+WIN + M: Minimize All Tabs
+
+○
+
+WIN + V: Display Clipboard History
+
+○
+
+WIN + P: Display Settings for More than one Screen
+
+○
+
+WIN + Left Arrow: Snap active window to the left side of the screen
+
+○
+
+WIN + Right Arrow: Snap active window to the Right side of the screen
+
+○
+
+WIN + Up Arrow: Snap active window to the Top of the screen
+
+○
+
+WIN + Down Arrow: Snap active window to the Bottom of the screen
+
+○
+
+ALT + TAB
+
+Note: If the Keyboard does not have Dedicated Function Keys, the numbers along the
+top will replace the specific Function Key.
+
+○
+
+Fn + Esc: Lock/Unlock Function Commands (Typically Function Lock)
+
+○
+
+Fn + F1: Function Key 1 (Typically Mute all)
+
+○
+
+Fn + F2: Function Key 2 (Typically Volume Down)
+
+○
+
+Fn + F3: Function Key 3 (Typically Volume Up)
+
+○
+
+Fn + F4: Function Key 4 (Typically Mute Microphones)
+
+Kronos
+●
+
+Timecard site for all hourly employees at Clemson (punching in and out)
+
+●
+
+clemson.kronos.net
+
+●
+
+Login
+○
+
+Username: Clemson username
+
+○
+
+Password: Clemson password
+■
+
+If the normal Clemson password isn’t working, reset the Clemson
+password to have them “sync”
+
+■
+
+This usually takes a few more minutes to update with the newly changed
+password than iRoar or Canvas for example
+
+●
+
+Mobile App
+○
+
+“UKG Workforce Central”
+
+○
+
+Server: https://clemson.kronos.net/wfc
+
+Laptop Pickup Procedure
+●
+
+When working at the help desk, people will frequently come in to pick up their repaired
+laptop.
+○
+
+1 - Get Username
+
+○
+
+2 - Check TigerOne card OR verify ID
+
+○
+
+3 - Have user sign pick up sheet
+
+○
+
+4 - Get the user’s loaner laptop assuming they received one (no loaner, no pick
+up)
+
+○
+
+5 - Grab laptop from pick-up shelf in the room behind you (Usernames on the
+pieces of paper on top of each laptop)
+
+○
+
+6 - Take off ticket summary paper on top of the laptop, fold tape back, and place
+under pick up sheet on the clipboard
+
+○
+
+7 - Have user open their laptop and make sure it’s working (if all good, they’re
+good to go)
+
+○
+
+8 - YOU sign the white portion of the pick up sheet
+
+○
+
+9 - Close the task on the ticket in Cherwell
+
+○
+
+10 - Write down the ticket number on a sticky note, attach it to the loaner laptop,
+give the laptop to someone in laptop support, and ask them to close out the
+ticket.
+
+●
+
+If you close the help desk, put ALL of the papers on the clipboard in the blue box sitting
+on the purple chair next to Avery’s desk.
+○
+
+If there were no laptop pickups that day, throw away the pick up sheet.
+
+Loaner Laptop Policy
+●
+
+Students are eligible for a loaner laptop from Clemson assuming their laptop meets the
+following criteria:
+○
+
+○
+
+Windows Laptop
+■
+
+Must be under warranty
+
+■
+
+Must be purchased from Clemson
+
+Mac Laptop
+■
+
+Must be under warranty with SafeWare OR AppleCare+ (not regular
+AppleCare)
+
+■
+
+Does not need to be purchased through Clemson
+
+LogiSim
+●
+
+Random software used by ECE majors
+
+●
+
+Download for Windows and MacOS
+
+●
+
+Known MacOS issue where launch fails
+○
+
+User must update Java and launch via terminal
+
+Matlab
+●
+
+This software is obtained through the vendor, MathWorks.
+
+●
+
+Please visit mathworks.com, and CREATE an account.
+
+●
+
+Installation Instructions
+
+●
+
+Re-Activate (License Expired)
+○
+
+Start Menu/Windows Search > Reactivate Matlab > Log in with MathWorks
+account > Activate using the internet
+
+Microsoft Office 365
+●
+
+Installation - Mac and Windows
+○
+
+Go to 365.clemson.edu > sign in with Clemson credentials > install office.
+
+○
+
+Do NOT try to install Office from anywhere else (Software Repo or
+download.clemson.edu).
+
+●
+
+Confirm User has an O365 License
+○
+
+Check HD Tools > Groups.
+■
+
+○
+
+You’ll see “365_License_Studnet_Office” or “365_License_Fac_Office”
+
+Go to office365.clemson.edu
+■
+
+If you see office app icons on the left hand side of the page, they’re
+licensed
+
+●
+
+Troubleshooting Office Issues
+○
+
+Sign out of the problem Office app and back in
+
+○
+
+Reboot computer
+
+○
+
+Uninstall and Reinstall office apps
+
+○
+
+Windows only
+■
+
+Repair/Modify Office apps
+●
+
+Settings > Apps & Features > Search “Microsoft Office 365
+ProPlus - en-us” > Modify > Quick Repair
+
+Minitab
+●
+
+Installation Instructions - Mac (includes license info)
+
+●
+
+Installation Instructions - Windows (includes license info)
+
+New Students (Incoming Freshmen, Transfers)
+●
+
+Applying/Accepted students will first have created an account on the Admitted Student
+Portal
+○
+
+This Portal provides a CUID and Activation Code, which be seen here
+
+○
+
+This is also where students will find orientation information as well as sign ups
+
+○
+
+We DO NOT have access to these usernames or passwords.
+
+○
+
+Login: email address the student signed up with (This will never be a Clemson
+email address)
+
+○
+
+To reset password: Click “Forgot Password” and a link will be sent to email
+
+■
+
+If the student signed up with a school email address they no longer
+have access to, they will need to call Admissions to have it changed
+to a personal one
+
+●
+
+Once the student has been accepted and has their CUID and activation code, they can
+begin the Student Onboarding Checklist
+○
+
+●
+
+Direct the student to enroll in Duo after activating their username
+
+If you see a highlighted yellow section in the Identity tab of HD Tools titled “Activation
+Code,” the student has not yet activated their username.
+
+●
+
+CUID: Can be provided without identity verifications
+
+●
+
+Activation Codes: Requires identity verification before giving out
+
+●
+
+The easiest way to relay the Student Onboarding address over the phone is
+myusername.clemson.edu
+
+Opening Procedures
+●
+●
+●
+●
+
+If you are new and know you are going to be opening, make sure you have backdoor
+access and tell Michael Belanger (mbelang) if you do not
+Enter through the back door and turn on the lights (switch is next to the fire extinguisher
+at the help desk)
+Open the Helpdesk doors, and turn on the check-in screens outside the doors
+Place the “Stop” sign in the doorway
+
+Password Reset
+●
+
+Clemson Password
+○
+
+Preferred Method:
+■
+
+Have Customer call into Helpdesk (864-656-3494)
+●
+
+Get Username and Verify ID with 3 Pieces of information.
+
+●
+
+Generate a default password (cu#last5)
+○
+
+Drill the last FIVE digits part. Forgetting to reiterate
+this will result in 3 out of 5 users calling right back!
+
+●
+
+Direct them to clemson.edu/change_password
+
+●
+
+Make sure the password change is finished before hanging
+up the phone!
+
+○
+
+Alternative Method (Abroad/International or missing phone only!):
+■
+
+Have the customer verify identity via email (Clemson email preferably)
+
+■
+
+Ask the following questions for students:
+●
+
+Clemson Username:
+
+■
+
+●
+
+●
+
+XID Number:
+
+●
+
+Full Name:
+
+●
+
+Date of Birth:
+
+●
+
+Home or Local Address on File:
+
+●
+
+Home or Cell Phone Number on File:
+
+●
+
+Major or Area of Study:
+
+Ask the following questions for employees:
+●
+
+Clemson Username:
+
+●
+
+XID Number:
+
+●
+
+Full Name:
+
+●
+
+Date of Birth:
+
+●
+
+Home or Local Address on File:
+
+●
+
+Home or Cell Phone Number on File:
+
+●
+
+Department Name:
+
+●
+
+Direct Supervisor’s Full Name:
+
+●
+
+Job Title:
+
+Google Password
+○
+
+Preferred Method: (Please ensure user has enrolled in Duo PRIOR to
+resetting Gmail password)
+■
+
+Have users visit clemson.edu/email_forwarding
+●
+
+Select “Reset my G Suite for Education Password” beside the last
+checkbox on the page.
+
+●
+
+Click OK.
+
+●
+
+Password will display at the top of the page (This password is
+randomized characters, does not require the user to have a
+SSN).
+
+●
+
+User is prompted to create a new password upon entering this
+one.
+
+○
+
+Alternative Method (Alumni)
+■
+
+Alumni cannot access the clemson.edu/emailforwarding page, so they will
+need to call and verify their info.
+●
+
+Once info is verified, ask for a “G Suite PW Reset” in #tier1-chat.
+
+PaperCut
+●
+
+PaperCut is our printing system. All students will use papercut, and employees will use a
+mix of papercut and their departmental, usually IP, printers (not papercut).
+
+●
+
+See more details on printing in Printing (General)
+
+●
+
+Installing PaperCut - Windows (VPN or eduroam needed to download, install, and use).
+
+●
+
+○
+
+download.clemson.edu > PaperCut Printers > Windows (install file)
+
+○
+
+Follow along
+
+PaperCut Issues - Windows
+○
+
+PaperCut Printer Failed to Install
+
+○
+
+Printed, No Jobs at Release Station
+■
+
+Usually due to an older Windows 10 update that broke PaperCut.
+
+■
+
+Upgrade to KB5007253 or better to fix.
+
+■
+
+Manually download from:
+https://www.catalog.update.microsoft.com/Search.aspx?q=KB5007253
+
+●
+
+●
+
+Installing PaperCut - Mac (VPN or eduroam needed to download, install, and use)
+○
+
+download.clemson.edu > PaperCut Printers > Mac
+
+○
+
+Follow along
+
+PaperCut Issues - Mac
+○
+
+Mojave version 12.2 does not work (fact check me on this)
+
+○
+
+“Hold for Authentication” Print Job Status
+■
+
+After clicking “print,” you’ll be prompted to login
+
+■
+
+These credentials default to computer username and password
+
+■
+
+Change username and password to CLEMSON credentials!
+
+■
+
+Detailed Guide
+
+●
+
+PaperCut Usage - iOS
+
+●
+
+PaperCut Usage - Android
+
+●
+
+PaperCut Web Print - Linux/Anyone without PaperCut installed
+○
+
+Papercut.clemson.edu > Web Print > Submit a Job
+
+○
+
+NOTE: You cannot change any settings when web printing except for the number
+of copies.
+
+○
+
+This will print double-sided in black & white every time. You cannot change this
+on Web Print.
+
+PeopleSoft
+●
+
+The most common issue with PeopleSoft is “profile may be locked or you may not have
+access yet to PeopleSoft.”
+
+●
+
+For these tickets,
+a. Check that the user is an active employee in the employee records section of HD
+Tools.
+■
+
+If they are, proceed to b.
+
+■
+
+If they are not, reply back and ask them to contact their supervisor about
+updating their employee status and close the ticket.
+
+b. Send an email to the user instructing them to clear their cache and cookies.
+■
+
+Feel free to use the Cache & Cookies Quick Desc on the staff page.
+
+c. Set the ticket to pending.
+d. Most of the time the user will tell you that this has fixed their issue at this point.
+■
+
+If clearing cache and cookies does not work, set ticket to pending, reason:
+ticket transfer. Transfer ticket to CUBS HR Help Desk.
+
+PeopleSoft Finance
+●
+
+The financial side of HR handled by CUBS Financial Help Desk.
+
+●
+
+These tickets will usually reference errors when entering financial information “in the
+system.”
+
+●
+
+They may reference P-Cards, IDOs, accounting policies, or accounting questions.
+
+●
+
+Procurement issues can also be directed here.
+
+Phones
+●
+
+Login: username
+
+●
+
+Password: Full phone extension (Ex: 864656XXXX)
+
+●
+
+There are a couple of different phone systems in use.
+
+●
+
+When you encounter phone issues, it’s best to send a ticket to telecom.
+
+●
+
+Make sure to get the caller’s:
+○
+
+Name
+
+○
+
+Phone Number (Old and New, if applicable)
+
+○
+
+Location on Campus
+
+Plotting
+●
+●
+●
+
+Largest plot size is 42” by (technically 100 ft), no plots larger than 42 in both dimensions
+Plots are created as tickets, so if a user asks about the status of their plot, searching
+their username in Cherwell should help you find the status
+Time to pick up a plot varies, users will get an email when they are ready
+
+Printing (General)
+
+●
+
+Printing for Students (using Papercut)
+○
+
+Mac
+
+■
+
+Print to “studentprinting”
+●
+
+Note the difference between “studentprinting” and “Student
+Printing”
+
+■
+
+If you cannot find studentprinting:
+●
+
+Connect to eduroam then try System Preferences > Printers &
+Scanners > “+” sign > studentprinting | bonjour > Add.
+
+●
+○
+
+Windows
+■
+
+●
+
+Print to studentprinting on papercut.clemson.edu
+
+Printing for Employees (departmental printers)
+○
+
+Most employees will use departmental printers that do not use papercut
+■
+
+●
+
+Follow along
+
+Make a ticket for their local support if this is the case
+
+Printing for Employees (papercut)
+○
+
+Mac
+■
+
+○
+
+Print to “employeeprinting”
+
+Windows
+■
+
+Print to “employeeprinting” on papercut.clemson.edu
+
+Proctorio
+●
+
+A proctoring tool for online tests. This is a Google Chrome Extension.
+
+●
+
+You cannot access the Chrome Web Store on a Clemson G Suite account, so you will
+not be able to use a username@g.clemson.edu when taking a Proctorio exam.
+
+●
+
+You MUST sign in with a personal Gmail account, download the extension on the
+personal account, and take the exam on the personal account.
+○
+
+To sign into a personal account in Chrome, select the profile icon in the top right
+corner > Add (other profiles) OR select other profile/account.
+
+●
+
+PROCTORIO IS NOT SUPPORTED ON THE CLEMSON G SUITE ACCOUNT.
+
+Respondus LockDown Browser
+●
+
+Download from download.clemson.edu
+
+●
+
+There are a multitude of issues you’ll run into while dealing with Respondus.
+
+●
+
+Troubleshooting Guide:
+
+●
+
+Check Internet Connection
+
+○
+
+Make sure the user's internet connection is satisfactory - net-test.clemson.edu or
+speedtest.net to check.
+
+●
+
+Restart Laptop
+
+●
+
+Uninstall and Reinstall Respondus
+○
+
+Make sure to install from here:
+
+●
+
+Respondus Lockdown Browser “OEM” is not the right app - uninstall and reinstall.
+
+●
+
+Test to see if Respondus will work on a different exam:
+○
+
+Enrollment Link for test exam
+■
+
+●
+
+Enroll in the Canvas course and complete the Respondus tests.
+
+Double check that drivers are up-to-date (common with webcam issues)
+○
+
+Start menu > Device manager > right-click corresponding drivers > update driver
+> search automatically.
+
+●
+
+“The browser cant be used in virtual machine software such as Virtual PC, VMWare and
+Parallels.” Solutions
+
+●
+
+Can’t shut down/log off computer after closing out of Lockdown Browser? See Windows
+(“No Power Options Are Currently Available”)
+
+●
+
+“Screencastify will not allow Lockdown to launch”: This is often encountered with
+students on a high school Chrome account, which manages the browser so
+Screencastify cannot be deleted.
+○
+
+To fix this, you need to log out/delete the Chrome PROFILE, so logging out of the
+account is likely not enough. You can either remove the profile or continue with a
+guest account. To check if the account was successfully changed/deleted
+
+Resmedianet
+●
+
+Network for devices included but not limited to:
+○
+
+Nintendo Switch, PS4/PS5 (Playstation), Xbox, Amazon (Alexa, Fire Stick), Apple
+TV, Chromecast, Google Home, Roku, Kindle, Nook, Smart Light
+
+●
+
+Password: tigerpaw
+
+●
+
+Registering device
+
+●
+
+Find a device’s MAC address
+○
+
+Make sure this is the WIRELESS or WIRED MAC depending on desired
+connection.
+
+●
+
+Help Desk employees can manually check/add which devices users have registered!
+○
+
+HD Tools > Search user > Netreg (second from bottom left)
+
+SAS
+●
+
+RENEWAL
+○
+
+Have users download the newest license file from the software repository.
+■
+
+The most up-to-date license file can be found in the software repo: SAS >
+Documentation > License (SIDS Dec 2021 - Dec 2022) > 9.4 > Teaching
+and Research (in most cases) > 64 bit > SAS94_9C…txt
+
+○
+
+Start Menu > Renew SAS 9.4. Walk through these prompts, and select the
+location of the downloaded license file.
+
+○
+
+**Have the user fill out the SAS License Agreement even if they are just
+renewing. SAS > Documentation > SASLicenseAgreement. Send this in a
+ticket to Software Licensing.**
+
+●
+
+Installation
+○
+
+Connect to the Software Repository (VPN needed if off campus, eduroam if on
+campus).
+
+○
+
+SAS > Windows > 9.4 > Teaching and Research > Current Media - 9.4.0.2 >
+64-bit > setup (labeled as an application type)
+
+School of Computing
+●
+
+Which major is the user in? (HD Tools > Usernames > Provisioning > Provisioned to: _)
+○
+
+○
+
+Computer Science has access to SoC machines
+■
+
+SSH: ssh username@access.computing.clemson.edu
+
+■
+
+GUI/Web Interface: https://virtual.computing.clemson.edu/
+
+Computer Engineering has access to CES machines
+■
+
+SSH: ssh username@access.ces.clemson.edu
+
+■
+
+GUI/Web Interface: https://access.cecas.clemson.edu/
+
+Slack
+●
+
+Channels
+
+Channel Name
+
+Channel Description
+
+What it is used for
+
+#tier1-chat
+
+Localized chat for all Tier 1
+Staff (Students and
+supervisors mostly)
+
+Used for all Tier 1
+associates to ask
+questions or make
+
+requests
+
+●
+
+#tier1-announcements
+
+Major updates that affect
+Tier 1 workflow
+
+Used by supervisors to
+give updates to Tier 1 Staff
+
+#slaask-open
+
+Slaask dashboard for chats Access chats to respond to
+customers.
+
+#apple-support
+
+Localized troubleshooting
+and general updates for
+Apple
+
+Conglomerate of all apple
+users in CCIT to help with
+troubleshooting. Only ask
+here if you are absolutely
+sure you need Apple
+specific help.
+
+#windows-support
+
+Localized troubleshooting
+and updates for Windows
+
+Conglomerate of all apple
+users in CCIT to help with
+troubleshooting. Only ask
+here if you are absolutely
+sure you need Windows
+specific help.
+
+#slaask-logs
+
+A report log of all open and
+closed slaask chats
+
+Used to go look through a
+previous conversation to
+get information if a
+customer mentions it.
+
+Slackbot
+○
+
+If you haven’t noticed, Slackbot is incredibly annoying.
+
+○
+
+Are you telling me you didn’t want to know that you were removed from a channel
+you just manually closed?
+
+○
+
+Our hero, Nathan Long, found a way to disable this. After signing in here,
+Slackbot will (automatically) no longer send messages about Slaask chats. You
+can close the channel now and it will not reappear.
+
+Software Repository / (Mapping a) Network Drive
+●
+
+The Software Repository is a network storage space where we keep installers for all
+software that we have access to on Main Campus
+
+●
+
+STOP: Ask what software the customer is looking for.
+○
+
+Some software are OS Specific, this will change the availability of the software
+they are looking for.
+
+●
+
+STOP: Ask what major the user is.
+
+○
+
+Some software licenses are restricted to specific majors. Check to see if the
+requested software is Major Restricted.
+
+○
+
+NOTE: Some software is specifically designed for uses off of main campus. As
+such, these requests will have to be handled by their respective teams. (Such as
+Automotive Software for CU-ICAR.
+
+●
+
+●
+
+STOP: Is the user on campus or on the VPN?
+○
+
+If they are not on campus, they will need to be on the VPN
+
+○
+
+If they are on campus, they will need to be connected to Eduroam.
+
+Windows:
+○
+
+File Explorer > This PC (left panel) > Computer Tab along the top of the Window
+> Map Network Drive >
+The Drive’s Letter is not important
+
+○
+
+The Folder’s Location is: \\software.clemson.edu\software
+
+○
+
+NOTE: By default it will most likely have username@clemson.edu selected,
+be sure that you select “Other User” and have them type in their
+Username, or “Connect using different credentials checked.
+■
+
+STOP: Does below login field with username and password say “Domain:
+Campus”?
+●
+
+Yes: username is just the username (excluding
+@clemson.edu)
+
+●
+
+No: username is campus\username (excluding
+@clemson.edu)
+
+○
+
+NOTE: If you must log in with YOUR Clemson Credentials, be absolutely sure
+that once you finish that you disconnect the Software Repository from their
+computer.
+
+●
+
+Mac:
+○
+
+Finder > Go > Connect to Server >
+OR Finder > Command + K
+
+○
+
+The Drive’s Name is not important
+
+○
+
+The Folder’s Location is: smb://software.clemson.edu/software
+
+○
+
+NOTE: If at all possible, have them log in with their Clemson Username and
+Clemson Password. By default it will most likely have username@clemson.edu
+selected, be sure that you select “Other User” and have them type in their
+Username.
+
+○
+
+NOTE: If you must log in with YOUR Clemson Credentials, be absolutely sure
+that once you finish that you disconnect the Software Repository from their
+computer.
+
+SolidWorks
+●
+
+STOP: Ask what major the user is.
+○
+
+●
+
+Solidworks licenses are restricted to CECAS Majors only!
+
+STOP: Is the user on campus or on the VPN?
+○
+
+If they are not on campus, they will need to be on the VPN
+
+○
+
+If they are on campus, they will need to be connected to Eduroam.
+
+○
+
+NOTE: Solidworks will require the user to be connected to the VPN or Eduroam
+at all times to use!
+
+●
+
+This is Windows ONLY software. Mac users will need to access Solidworks via Citrix or
+Bootcamp their Mac.
+
+●
+
+Download & Installation Instructions
+○
+
+File path in the guide is slightly out of date. Updated path in Repo is: SolidWorks
+> Windows > OEM > SOLIDWORKS 2021 SP04 (or most up to date version) >
+setup.
+
+Splunk
+●
+
+Splunk is a powerful tool used mostly for troubleshooting wireless issues.
+
+●
+
+Access Splunk on the staff page under Web Applications.
+
+●
+
+Troubleshooting Wireless:
+○
+
+Type a username in the search bar, and you’ll be able to see all of their wireless
+activity.
+
+○
+
+You’ll be able to see what they’re using for their username.
+
+○
+
+You can also search by mac address and ip address
+
+○
+
+Use this search query for more organized information:
+
+○
+
+index=splunk_network_ise log_type!=RADIUS_Accounting username | rename
+NetworkDeviceName as Controller Called_Station_ID AS "Access Point"
+Device_IP_Address as "Controller IP" |table _time, UserName, src_mac, "Access
+Point", log_type, AuthenticationStatus, DetailedInfo, reason, Controller,
+"Controller IP"
+
+○
+
+Use the “Helpdesk ISE Authentications” Dashboard for the best results.
+
+■
+
+Open Splunk > Search & Reporting > Dashboards > Helpdesk ISE
+Authentications
+
+■
+
+Select a time range, fill in a username, MAC address can be left as the
+wildcard (*), and select an authentication type. Click submit.
+
+●
+
+Understanding Splunk search results will take some time and experience.
+
+SPSS
+●
+
+Can be accessed through Citrix Workspace or installed locally
+
+●
+
+Download and Install:
+○
+
+**You must be on the VPN or connected to Eduroam to download, install, and
+use SPSS Statistics.**
+
+○
+
+Download from Software Repo > SPSS Folder > Mac/Windows/Linux > Statistics
+Standard 28.0 > run this .exe or .pkg file (SPSSStatistics.exe or
+SPSS_Statistics_… pkg).
+
+○
+
+Follow installation guide from here:
+https://hdkb.clemson.edu/phpkb/article.php?id=1786
+
+Switchboard
+●
+
+Switchboard is a call center state when we are taking all of the calls going to the general
+clemson phone number.
+○
+
+Most of the time, if we move to this state, we will tell you when we move to
+switchboard
+
+●
+
+Change the opening response from CCIT related to a more general Clemson University
+message (e.g. “Clemson University, how may I direct your call?).
+
+●
+
+Note: Many people will need to be transferred to other phone centers. You can find their
+extensions at “Directory Numbers” on the HDAdmin Staff Page.
+
+Tableau
+●
+
+Available only to Students for free via Citrix Workspace.
+
+●
+
+A desktop license can be purchased here
+
+●
+
+Purchasing a license will create a ticket that looks like a receipt in Cherwell with Michael
+Belanger’s (MBELANG) name on it. **Do NOT spam this ticket - Send it to Computer
+Resources.**
+
+TigerOne (Mobile ID)
+●
+
+Adding a Mobile ID on iOS
+○
+
+●
+
+Adding a Mobile ID on Android
+○
+
+●
+
+**You CANNOT be connected to ClemsonGuest during this process!**
+**You CANNOT be connected to ClemsonGuest during this process!**
+
+White Screen for Duo when Adding TigerOne (iOS)
+○
+
+Settings > Screen Time > Content & Privacy Restrictions > Content Restrictions
+> Web Content > Unrestricted Access.
+
+○
+●
+
+If the above does not work, Settings > Safari > Clear History and Website Data.
+
+Adding TigerOne on a new iPhone (previously on another iPhone)
+○
+
+Go to the Settings app on your iPhone. You can do this on the old or new device.
+
+○
+
+Click on your name on the top of the menu.
+
+○
+
+Scroll down to the list of devices and select the OLD iPhone or Apple Watch (you
+can see the model version under the name)
+
+○
+
+Scroll down and select Remove All Cards
+
+○
+
+Once the cards are removed (this may take a moment), close/reopen the
+my.Clemson app and you will be able to add the TigerOne Mobile ID to your new
+device.
+
+TigerQuest
+●
+
+This is a Clemson club/Organization site
+
+●
+
+If you ever have a user calling in to request anything regarding an organizational/club
+account (Creating a Clemson/email account for the org, resetting a password, etc.) and
+they are not listed as an Owning Identity (Shown below), you can check that Club’s
+TigerQuest page to see their position within the org or give them the info for who to
+contact
+
+●
+
+If current staff positions on TigerQuest need to be updated in any way, have the user
+click on the Support button at the bottom of the site. This site is run by Anthology, who
+can process all of these changes.
+
+Touchnet for Laptop Pickup
+●
+●
+
+Instructions are available at the computer closest to the door, which is the only one you
+can use for this
+It will not work unless you are in Edge in Internet Explorer mode!
+
+○
+
+●
+●
+●
+●
+●
+●
+
+There is a desktop shortcut on the Help Desk PC connected to the card
+reader
+PLEASE MAKE SURE YOU GET THE PASSWORD RIGHT
+Add parts/labor as indicated on the Cherwell ticket/post-it on the sheet with the repaired
+laptop
+If tax is not automatically added, type “1.07” in the “Amount to be Charged” field
+Make sure that you approve Java applet usage to allow the card reader to work, and
+click to verify the signature
+If the user does not want an email receipt, Jon has asked that we email the receipt to
+ithelp@clemson.edu and forward the ticket to Laptop Repair.
+Make sure to note the order number after purchase on the repaired laptop sheet
+
+Trend Micro (Apex One)
+●
+
+Trend Micro is an antimalware and antivirus software that frequently breaks upon
+updates to both MacOS and itself. Most of the time, it is more beneficial to uninstall
+Trend Micro than it is to troubleshoot the software itself.
+
+●
+
+Note: There is an uninstaller software that Trend Micro provides, but most of the time, it
+will install back upon the Macbook Restarting. It is best to use this Uninstall Guide that
+works through the MacOS Terminal
+
+●
+
+Trend One Mac Uninstall Guide:
+
+Uninstalling a Program
+●
+
+Windows
+○
+
+Search for Program in Start Menu > Uninstall. Select Program in new Window >
+Uninstall.
+
+●
+
+MacOS
+○
+
+Finder > Applications > Right-Click on Application > Move to Trash. Right-Click
+on Trash > Empty Trash.
+
+Windows
+●
+
+Product Key
+○
+
+Product Keys for Windows 10 Education & Windows 11 Education can be found
+on Azure - https://aka.ms/devtoolsforteaching.
+■
+
+Sign In > Software > Search “Windows” > Select desired version > View
+Key.
+
+■
+○
+
+Note: Not all of the Win10 keys are active. You may have to try a few.
+
+Alumni Activation Key
+
+■
+
+Do not have access to Azure, so they cannot retrieve their activation key.
+This can be prompted due to Windows updates, a reimage from Laptop
+Support, or a multitude of firmware/driver updates.
+
+■
+
+Either follow these instructions or have the user do so and this should
+remove the issue permanently. (At least until their next update breaks it
+again)
+
+●
+
+Bitlocker Recovery
+○
+
+FIRST: As long as the user’s device was registered to their Clemson username,
+they can view their own Bitlocker Recovery Key
+■
+
+365.clemson.edu > Sign in > Profile icon (top right) > My account >
+Devices > Bitlocker Key
+
+○
+
+ELSE: If the user cannot see their Bitlocker Recovery key, any Service Desk
+full-time staff or local support can check this for you.
+■
+
+Send a request in #tier1-chat with:
+●
+
+1. (Identity has been verified)
+
+●
+
+2. Username
+
+●
+
+3. Something that can identify the device
+○
+
+Since the device is locked, they won’t be able to see
+the device name, so get enough information that we can
+determine the device name (Ask how many devices they
+have, whether the device is a laptop/desktop/where it is
+located)
+
+●
+
+“No Power Options Are Currently Available”
+○
+
+This is almost always caused by Lockdown Browser exiting incorrectly
+
+○
+
+Have the user reopen Lockdown and close it properly and check if the issue has
+been fixed
+
+○
+
+If not, have the user do a brute force shutdown of the device (Hold down power
+button for ~15 seconds
+■
+
+If this does not immediately fix the issue upon reboot, end Lockdown
+Browser in Task Manager
+
+○
+
+There is a USB in the helpdesk register labeled “Jeremy.”
+■
+
+There is one file on this drive.
+
+■
+
+Transfer this file to their computer.
+
+■
+
+Execute the file.
+
+Zoom
+●
+
+Zoom download: https://zoom.us/download
+
+●
+
+STOP: Have the user open the Zoom app and click on their profile initials in the top
+right. Does the pop-out window say the word “Licensed”?
+○
+
+Not Licensed? Log out of Zoom and follow these instructions:
+■
+
+Open Zoom App > Login with SSO > Domain: clemson > Sign in with
+Clemson username and password
+
+■
+
+On the off chance this does not work and you can verify the user is using
+the correct username/password, send a Slack message with the
+username to a Zoom Admin and have them check on the licensing.
+
+●
+
+●
+
+Zoom Admins:
+○
+
+Avery Holder
+
+○
+
+Bill Brahm
+
+○
+
+Glenn Williams
+
+Zoom Webinar questions and other obscure Zoom questions can be sent to Teaching &
+Learning Support in Cherwell.
+○
+
+NOTE: It’s a good idea to ask a Student Lead or Avery before you send a ticket
+here.
+
+
